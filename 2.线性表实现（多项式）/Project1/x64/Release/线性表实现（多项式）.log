@@ -1,0 +1,8 @@
+﻿  function.c
+C:\Users\林嘉曦\Documents\数据结构与算法自学\线性表实现（多项式）\线性表实现（多项式）\function.c(97,25): warning C4090: “函数”: 不同的“const”限定符
+  正在生成代码
+  2 of 22 functions ( 9.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  线性表实现（多项式）.vcxproj -> C:\Users\林嘉曦\Documents\数据结构与算法自学\线性表实现（多项式）\x64\Release\线性表实现（多项式）.exe
