@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\林嘉曦\Documents\数据结构与算法自学\11.栈的表示和操作实现\Project1\test.c(52,15): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  Project1.vcxproj -> C:\Users\林嘉曦\Documents\数据结构与算法自学\11.栈的表示和操作实现\x64\Debug\Project1.exe
