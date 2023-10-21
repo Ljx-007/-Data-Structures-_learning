@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\林嘉曦\Documents\数据结构与算法自学\18.案例分析3（表达式求值）\Project1\test.c(80): warning C4715: “GetTop”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> C:\Users\林嘉曦\Documents\数据结构与算法自学\18.案例分析3（表达式求值）\x64\Debug\Project1.exe
