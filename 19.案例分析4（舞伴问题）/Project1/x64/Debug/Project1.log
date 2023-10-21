@@ -1,0 +1,6 @@
+﻿  test.c
+C:\Users\林嘉曦\Documents\数据结构与算法自学\19.案例分析4（舞伴问题）\Project1\test.c(49,3): warning C4033: “DelQueue”必须返回值
+C:\Users\林嘉曦\Documents\数据结构与算法自学\19.案例分析4（舞伴问题）\Project1\test.c(69,3): warning C4033: “GetTop”必须返回值
+C:\Users\林嘉曦\Documents\数据结构与算法自学\19.案例分析4（舞伴问题）\Project1\test.c(54): warning C4715: “DelQueue”: 不是所有的控件路径都返回值
+C:\Users\林嘉曦\Documents\数据结构与算法自学\19.案例分析4（舞伴问题）\Project1\test.c(73): warning C4715: “GetTop”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> C:\Users\林嘉曦\Documents\数据结构与算法自学\19.案例分析4（舞伴问题）\x64\Debug\Project1.exe
