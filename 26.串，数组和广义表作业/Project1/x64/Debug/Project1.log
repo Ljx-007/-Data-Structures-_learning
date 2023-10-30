@@ -1,0 +1,4 @@
+﻿  test.c
+C:\Users\林嘉曦\Documents\数据结构与算法自学\26.串，数组和广义表作业\Project1\test.c(166,14): warning C4098: “IsDifferent”:“void”函数返回值
+C:\Users\林嘉曦\Documents\数据结构与算法自学\26.串，数组和广义表作业\Project1\test.c(176,15): warning C4098: “IsDifferent”:“void”函数返回值
+  Project1.vcxproj -> C:\Users\林嘉曦\Documents\数据结构与算法自学\26.串，数组和广义表作业\x64\Debug\Project1.exe
