@@ -1,0 +1,5 @@
+﻿  test.c
+C:\Users\林嘉曦\Documents\数据结构与算法自学\35.图的遍历\Project1\test.c(175,3): warning C4033: “OutQueue”必须返回值
+C:\Users\林嘉曦\Documents\数据结构与算法自学\35.图的遍历\Project1\test.c(180): warning C4715: “OutQueue”: 不是所有的控件路径都返回值
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+C:\Users\林嘉曦\Documents\数据结构与算法自学\35.图的遍历\x64\Debug\Project1.exe : fatal error LNK1120: 1 个无法解析的外部命令
